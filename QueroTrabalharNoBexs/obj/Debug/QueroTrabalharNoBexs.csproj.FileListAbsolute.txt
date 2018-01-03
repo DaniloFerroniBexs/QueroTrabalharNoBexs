@@ -1,0 +1,6 @@
+D:\Projetos\QueroTrabalharNoBexs\QueroTrabalharNoBexs\QueroTrabalharNoBexs\bin\Debug\QueroTrabalharNoBexs.exe.config
+D:\Projetos\QueroTrabalharNoBexs\QueroTrabalharNoBexs\bin\Debug\QueroTrabalharNoBexs.exe.config
+D:\Projetos\QueroTrabalharNoBexs\QueroTrabalharNoBexs\bin\Debug\QueroTrabalharNoBexs.exe
+D:\Projetos\QueroTrabalharNoBexs\QueroTrabalharNoBexs\bin\Debug\QueroTrabalharNoBexs.pdb
+D:\Projetos\QueroTrabalharNoBexs\QueroTrabalharNoBexs\obj\Debug\QueroTrabalharNoBexs.exe
+D:\Projetos\QueroTrabalharNoBexs\QueroTrabalharNoBexs\obj\Debug\QueroTrabalharNoBexs.pdb
